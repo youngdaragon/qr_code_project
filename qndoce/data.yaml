@@ -1,0 +1,5 @@
+train: '/home/kimyongtae/yolov5/qndoce/train/images'
+val: '/home/kimyongtae/yolov5/qndoce/valid/images'
+
+nc: 1
+names: ['qncode']
